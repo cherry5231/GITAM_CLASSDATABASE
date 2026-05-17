@@ -60,5 +60,6 @@ It focuses on:
 ---
 
 ## Project Structure
+In the second file i imported the first file for better understanding to make trhe first file not big to read and it also helps beginners how to use import files easily and use class and objects verty effectively,yhis is a self made code. The import sys file used in second file used to convert the data into readable text format in notepad, The .txt file is the final readable format that is the output of the code opened in notepad.
 ## CREATOR
 https://github.com/cherry5231
